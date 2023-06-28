@@ -127,7 +127,7 @@ collections:
         label: Article Summary
         widget: text
         required: false
-      - hint: ''
+      - hint: 'Ideal image ratio: 16:9'
         name: f_lead-image
         label: Lead Image
         widget: object
@@ -166,6 +166,7 @@ collections:
         label: Featured?
         widget: boolean
         required: false
+        default: false
       - hint: >-
           The color of the body tag which links to the base colour of the
           background images.
@@ -271,6 +272,31 @@ collections:
         label: Project site URL
         widget: string
         required: false
+      - hint: ''
+        name: f_date-first-published
+        label: Date first published
+        widget: datetime
+        required: true
+      - hint: ''
+        name: f_date-last-edited
+        label: Date last edited
+        widget: datetime
+        required: true
+      - hint: ''
+        name: f_author-s-name
+        label: Author's name
+        widget: string
+        required: true
+      - hint: ''
+        name: f_author-s-url
+        label: Author's URL
+        widget: string
+        required: true
+      - hint: ''
+        name: f_lead-image-url
+        label: Lead image URL
+        widget: string
+        required: true
       - label: Tags
         widget: hidden
         name: tags
@@ -637,6 +663,7 @@ collections:
         label: Featured
         widget: boolean
         required: false
+        default: false
       - label: Tags
         widget: hidden
         name: tags

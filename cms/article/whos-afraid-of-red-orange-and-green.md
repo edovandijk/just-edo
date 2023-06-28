@@ -147,9 +147,9 @@ f_lead-image:
   url: >-
     https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/6409fff5859fd490bf842472_Colourblind%20Test.png
   alt: null
-updated-on: '2023-05-30T13:59:32.765Z'
+updated-on: '2023-06-28T12:46:17.230Z'
 created-on: '2023-03-09T16:33:14.009Z'
-published-on: '2023-05-30T14:00:41.796Z'
+published-on: '2023-06-28T12:54:53.895Z'
 f_article-caption-3: >-
   Adjacent colours with similar grey values blend into each other for
   colour-blind people
@@ -157,6 +157,12 @@ f_thumbnail-image:
   url: >-
     https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/640cb66ad086fd3feeb920c7_Colourblind%20Test%20thumb.png
   alt: null
+f_author-s-name: Edo van Dijk
+f_author-s-url: https://www.linkedin.com/in/edoch/
+f_date-first-published: '2023-03-09T00:00:00.000Z'
+f_date-last-edited: '2023-05-30T00:00:00.000Z'
+f_lead-image-url: >-
+  https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/6409fff5859fd490bf842472_Colourblind%20Test.png
 layout: '[article].html'
 tags: article
 ---

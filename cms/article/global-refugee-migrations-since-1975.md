@@ -37,9 +37,9 @@ f_lead-image:
   url: >-
     https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/640f449b6d313b7072621b2c_RM%20lead%20image.jpg
   alt: null
-updated-on: '2023-05-30T13:59:54.306Z'
+updated-on: '2023-06-28T12:47:48.741Z'
 created-on: '2023-03-13T12:19:25.719Z'
-published-on: '2023-05-30T14:00:41.796Z'
+published-on: '2023-06-28T12:54:53.895Z'
 f_article-image-1:
   url: >-
     https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/640f39762869b27756a4bc87_RM%20Article-3.jpg
@@ -83,6 +83,12 @@ f_article-part-3: >-
   Awards](https://informationisbeautiful.net/2014/information-is-beautiful-awards-2014-the-winners-2/)’
   organized by [David
   McCandless](https://en.wikipedia.org/wiki/David_McCandless).
+f_author-s-name: Edo van Dijk
+f_author-s-url: https://www.linkedin.com/in/edoch/
+f_date-first-published: '2023-03-13T00:00:00.000Z'
+f_date-last-edited: '2023-05-30T00:00:00.000Z'
+f_lead-image-url: >-
+  https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/640f449b6d313b7072621b2c_RM%20lead%20image.jpg
 layout: '[article].html'
 tags: article
 ---

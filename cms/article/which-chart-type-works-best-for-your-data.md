@@ -21,9 +21,9 @@ f_thumbnail-image:
     https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/640f0116e21bb70c781534a1_Header_image-thumb.jpg
   alt: null
 slug: which-chart-type-works-best-for-your-data
-updated-on: '2023-05-30T13:59:05.891Z'
+updated-on: '2023-06-28T12:47:01.001Z'
 created-on: '2023-03-13T11:00:09.482Z'
-published-on: '2023-05-30T14:00:41.796Z'
+published-on: '2023-06-28T12:54:53.895Z'
 f_article-part-2: >-
   ##### 3\. Distribution
 
@@ -231,6 +231,12 @@ f_article-part-3: >-
   ‍
 f_bg-color: white
 f_subtitle: 6 guiding principles for your data visualisations
+f_author-s-name: Edo van Dijk
+f_author-s-url: https://www.linkedin.com/in/edoch/
+f_date-first-published: '2023-03-13T00:00:00.000Z'
+f_date-last-edited: '2023-05-30T00:00:00.000Z'
+f_lead-image-url: >-
+  https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/640f00360737ed8b45badb8d_Header_image2.png
 layout: '[article].html'
 tags: article
 ---

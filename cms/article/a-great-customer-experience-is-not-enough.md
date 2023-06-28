@@ -86,9 +86,9 @@ f_article-part-3: >-
   customer experience and service design the best it can be.
 f_subtitle: Why brands should invest in a unique and memorable identity
 slug: a-great-customer-experience-is-not-enough
-updated-on: '2023-06-15T15:16:44.869Z'
+updated-on: '2023-06-28T12:49:12.032Z'
 created-on: '2023-06-14T11:45:34.580Z'
-published-on: '2023-06-15T15:16:52.504Z'
+published-on: '2023-06-28T12:54:53.895Z'
 f_lead-image:
   url: >-
     https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/6489e898a067149386756bc7_CX-lead.jpg
@@ -106,6 +106,12 @@ f_article-image-3:
   url: >-
     https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/648b252d1d55bbcbbb8d8994_slidebean-unsplash.jpg
   alt: null
+f_author-s-name: Edo van Dijk
+f_author-s-url: https://www.linkedin.com/in/edoch/
+f_date-first-published: '2023-06-14T00:00:00.000Z'
+f_date-last-edited: '2023-06-15T00:00:00.000Z'
+f_lead-image-url: >-
+  https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/6489e898a067149386756bc7_CX-lead.jpg
 layout: '[article].html'
 tags: article
 ---

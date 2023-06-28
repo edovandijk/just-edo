@@ -134,9 +134,9 @@ f_article-part-3: >-
   ‍
 f_subtitle: The key to successful retail and digital product design
 slug: understanding-brand-experience-design
-updated-on: '2023-06-25T12:05:06.467Z'
+updated-on: '2023-06-28T12:50:01.502Z'
 created-on: '2023-06-24T14:54:01.760Z'
-published-on: '2023-06-25T12:15:00.762Z'
+published-on: '2023-06-28T12:54:53.895Z'
 f_article-image-2:
   url: >-
     https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/6497090e4522f54a0306639e_hugo-barbosa.jpg
@@ -153,6 +153,12 @@ f_thumbnail-image:
   url: >-
     https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/649708fc4522f54a03065b4f_amelie-mourichon-thumb.jpg
   alt: null
+f_author-s-name: Edo van Dijk
+f_author-s-url: https://www.linkedin.com/in/edoch/
+f_date-first-published: '2023-06-24T00:00:00.000Z'
+f_date-last-edited: '2023-06-25T00:00:00.000Z'
+f_lead-image-url: >-
+  https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/649708f33518866550b16bec_amelie-mourichon.jpg
 layout: '[article].html'
 tags: article
 ---

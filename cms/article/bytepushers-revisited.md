@@ -20,9 +20,9 @@ f_thumbnail-image:
   url: >-
     https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/6475fffe185990c2bca47ee9_BP-people-thumb.jpg
   alt: null
-updated-on: '2023-05-31T16:31:54.287Z'
+updated-on: '2023-06-28T12:48:33.556Z'
 created-on: '2023-05-30T11:59:59.028Z'
-published-on: '2023-05-31T16:32:02.203Z'
+published-on: '2023-06-28T12:54:53.895Z'
 f_project-site-url: https://www.bytepushers.com
 f_article-part-2: >-
   ### A few topics we cover in the interviews
@@ -48,6 +48,12 @@ f_article-video-1: >-
 f_article-video-2: >-
   https://uploads-ssl.webflow.com/63beba5fc42a964f83b156fc/64776bd7c6c3beb25c383df7_BP
   Site-transcode.mp4
+f_author-s-name: Edo van Dijk
+f_author-s-url: https://www.linkedin.com/in/edoch/
+f_date-first-published: '2023-05-30T00:00:00.000Z'
+f_date-last-edited: '2023-06-25T00:00:00.000Z'
+f_lead-image-url: >-
+  https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/6476004d7b21d93dc6c5143d_BP-people-light.jpg
 layout: '[article].html'
 tags: article
 ---
