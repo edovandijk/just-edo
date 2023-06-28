@@ -1,6 +1,6 @@
 ---
 f_bg-color: '#f0eee8'
-f_featured: false
+f_featured: true
 title: 'Understanding brand experience design '
 f_intro-text: >-
   Brand experience design is a critical component of building a successful

@@ -3552,9 +3552,9 @@ figcaption {
 
 .image-overlay-cta {
   z-index: 1;
-  opacity: .7;
+  opacity: 1;
   mix-blend-mode: multiply;
-  background-image: linear-gradient(to top, rgba(1, 30, 100, .9), rgba(1, 30, 100, .4));
+  background-image: linear-gradient(to top, rgba(7, 77, 255, 1), rgba(7, 77, 255, .4));
   position: absolute;
   top: 0%;
   bottom: 0%;
@@ -4749,7 +4749,7 @@ figcaption {
   }
 
   .image-overlay-cta {
-    background-image: linear-gradient(to top, rgba(1, 30, 100, .9), rgba(1, 30, 100, .4));
+    background-image: linear-gradient(to top, rgba(7, 77, 255, 1), rgba(7, 77, 255, .4));
   }
 
   .heading-h1-home {
