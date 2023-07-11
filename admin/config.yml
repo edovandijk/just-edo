@@ -1240,29 +1240,45 @@ collections:
             label: Text
             name: '-62d69ba5'
             widget: text
+          - hint: 'Original text: 1, key: 31'
+            label: Text
+            name: '31'
+            widget: string
           - hint: 'Original text: Brand profile definition, key: -3702327d'
             label: Text
             name: '-3702327d'
+            widget: string
+          - hint: 'Original text: 2, key: 32'
+            label: Text
+            name: '32'
             widget: string
           - hint: 'Original text: Brand identity development, key: 7199d7f2'
             label: Text
             name: 7199d7f2
             widget: string
+          - hint: 'Original text: 3, key: 33'
+            label: Text
+            name: '33'
+            widget: string
           - hint: 'Original text: Name creation, key: 51a4b0b4'
             label: Text
             name: 51a4b0b4
+            widget: string
+          - hint: 'Original text: 4, key: 34'
+            label: Text
+            name: '34'
             widget: string
           - hint: 'Original text: Logo design, key: 1f1965b3'
             label: Text
             name: 1f1965b3
             widget: string
+          - hint: 'Original text: 5, key: 35'
+            label: Text
+            name: '35'
+            widget: string
           - hint: 'Original text: Website design & development, key: 187f33e4'
             label: Text
             name: 187f33e4
-            widget: string
-          - hint: 'Original text: 1, key: 31'
-            label: Text
-            name: '31'
             widget: string
           - hint: >-
               Original text: We help you define your brand proposition and
@@ -1274,10 +1290,6 @@ collections:
           - hint: 'Original text: Found. case, key: 2c86dc4'
             label: Text
             name: 2c86dc4
-            widget: string
-          - hint: 'Original text: 2, key: 32'
-            label: Text
-            name: '32'
             widget: string
           - hint: >-
               Original text: We activate your brand proposition and purpose with
@@ -1291,10 +1303,6 @@ collections:
             label: Text
             name: '-362b9226'
             widget: string
-          - hint: 'Original text: 3, key: 33'
-            label: Text
-            name: '33'
-            widget: string
           - hint: >-
               Original text: We create brand names that are unique, meaningful
               and make you stand out. A well-crafted name can be owned in your
@@ -1306,10 +1314,6 @@ collections:
           - hint: 'Original text: Ravel case, key: -17aed6de'
             label: Text
             name: '-17aed6de'
-            widget: string
-          - hint: 'Original text: 4, key: 34'
-            label: Text
-            name: '34'
             widget: string
           - hint: >-
               Original text: The logo is the foundation of your brand identity.
@@ -1323,10 +1327,6 @@ collections:
           - hint: 'Original text: Sosimple case , key: -4672c82'
             label: Text
             name: '-4672c82'
-            widget: string
-          - hint: 'Original text: 5, key: 35'
-            label: Text
-            name: '35'
             widget: string
           - hint: >-
               Original text: In a world where people interact primarily with
@@ -2879,6 +2879,123 @@ collections:
                 required: false
           - label: Image
             name: 20d5d3b0
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 147ba0ae
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '48167655'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 6f7c211a
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-4fb35d1d'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-3efea075'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 4fb5654e
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2ee3c64c'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 6b38466b
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 226ef34c
             widget: object
             fields:
               - name: url

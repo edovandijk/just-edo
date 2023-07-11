@@ -16,7 +16,7 @@ f_image:
 slug: type
 updated-on: '2023-07-05T14:57:55.217Z'
 created-on: '2023-03-01T16:57:03.073Z'
-published-on: '2023-04-09T14:37:12.389Z'
+published-on: '2023-07-08T15:51:40.714Z'
 f_order-on-the-page: 2
 layout: '[insights].html'
 tags: insights

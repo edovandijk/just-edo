@@ -24,19 +24,19 @@ f_article-part-2: >-
   *   **Protanomaly**: In males with protanomaly, the red cone photopigment is
   abnormal. Red, orange, and yellow appear greener and colours are not as
   bright. This condition is mild and doesn’t usually interfere with daily
-  living. Protanomaly is an X-linked disorder estimated to affect 1% of males.
-
+  living. Protanomaly is an X-linked disorder estimated to affect 1% of
+  males.**‍**
 
   *   **Protanopia**: In males with protanopia, there are no working red cone
   cells. Red appears as black. Certain shades of orange, yellow, and green all
   appear as yellow. Protanopia is an X-linked disorder that is estimated to
-  affect 1% of males.
+  affect 1% of males.**‍**
 
   *   **Deuteranomaly**: In males with deuteranomaly, the green cone
   photopigment is abnormal. Yellow and green appear redder and it is difficult
   to tell violet from blue. This condition is mild and doesn’t interfere with
   daily living. Deuteranomaly is the most common form of colour blindness and is
-  an X-linked disorder affecting 5% of males.
+  an X-linked disorder affecting 5% of males.**‍**
 
   *   **Deuteranopia**: In males with deuteranopia, there are no working green
   cone cells. They tend to see reds as brownish-yellow and greens as beige.
@@ -147,9 +147,9 @@ f_lead-image:
   url: >-
     https://uploads-ssl.webflow.com/63f6564941d3f029c1a7158b/6409fff5859fd490bf842472_Colourblind%20Test.png
   alt: null
-updated-on: '2023-06-28T12:46:17.230Z'
+updated-on: '2023-07-09T09:09:44.744Z'
 created-on: '2023-03-09T16:33:14.009Z'
-published-on: '2023-06-28T12:54:53.895Z'
+published-on: '2023-07-09T09:09:56.660Z'
 f_article-caption-3: >-
   Adjacent colours with similar grey values blend into each other for
   colour-blind people
