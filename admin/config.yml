@@ -1215,18 +1215,6 @@ collections:
             label: Text
             name: '-65875822'
             widget: string
-          - hint: 'Original text: Grid view, key: -3fb224e1'
-            label: Text
-            name: '-3fb224e1'
-            widget: string
-          - hint: 'Original text: List view, key: 2b054cc7'
-            label: Text
-            name: 2b054cc7
-            widget: string
-          - hint: 'Original text: View project, key: -2205ff42'
-            label: Text
-            name: '-2205ff42'
-            widget: string
           - hint: >-
               Original text: JustEdo helps you to navigate change. We work with
               governments and corporate clients, and with startups and SME’s,
@@ -1340,6 +1328,18 @@ collections:
           - hint: 'Original text: Employor case, key: -2599fe21'
             label: Text
             name: '-2599fe21'
+            widget: string
+          - hint: 'Original text: Grid view, key: -3fb224e1'
+            label: Text
+            name: '-3fb224e1'
+            widget: string
+          - hint: 'Original text: List view, key: 2b054cc7'
+            label: Text
+            name: 2b054cc7
+            widget: string
+          - hint: 'Original text: View project, key: -2205ff42'
+            label: Text
+            name: '-2205ff42'
             widget: string
           - hint: 'Original text: Relume Library Style Guide, key: 7947231c'
             label: Text
