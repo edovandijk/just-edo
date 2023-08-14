@@ -1215,6 +1215,18 @@ collections:
             label: Text
             name: '-65875822'
             widget: string
+          - hint: 'Original text: Grid view, key: -3fb224e1'
+            label: Text
+            name: '-3fb224e1'
+            widget: string
+          - hint: 'Original text: List view, key: 2b054cc7'
+            label: Text
+            name: 2b054cc7
+            widget: string
+          - hint: 'Original text: View project, key: -2205ff42'
+            label: Text
+            name: '-2205ff42'
+            widget: string
           - hint: >-
               Original text: JustEdo helps you to navigate change. We work with
               governments and corporate clients, and with startups and SME’s,
@@ -1328,18 +1340,6 @@ collections:
           - hint: 'Original text: Employor case, key: -2599fe21'
             label: Text
             name: '-2599fe21'
-            widget: string
-          - hint: 'Original text: Grid view, key: -3fb224e1'
-            label: Text
-            name: '-3fb224e1'
-            widget: string
-          - hint: 'Original text: List view, key: 2b054cc7'
-            label: Text
-            name: 2b054cc7
-            widget: string
-          - hint: 'Original text: View project, key: -2205ff42'
-            label: Text
-            name: '-2205ff42'
             widget: string
           - hint: 'Original text: Relume Library Style Guide, key: 7947231c'
             label: Text
@@ -2484,29 +2484,29 @@ collections:
             name: title
             widget: hidden
             default: Links
-          - hint: 'Original link: /about, key: 55b8e8be'
+          - hint: 'Original link: /about/, key: 61642f31'
             label: Link
-            name: 55b8e8be
+            name: 61642f31
             widget: string
-          - hint: 'Original link: /services, key: -753a8e73'
+          - hint: 'Original link: /services/, key: -32173fbe'
             label: Link
-            name: '-753a8e73'
+            name: '-32173fbe'
             widget: string
-          - hint: 'Original link: /projects, key: -2f68657'
+          - hint: 'Original link: /projects/, key: -5bda445a'
             label: Link
-            name: '-2f68657'
+            name: '-5bda445a'
             widget: string
-          - hint: 'Original link: /articles, key: -10aecc94'
+          - hint: 'Original link: /articles/, key: -52ac5bd'
             label: Link
-            name: '-10aecc94'
+            name: '-52ac5bd'
             widget: string
-          - hint: 'Original link: /insights, key: 590e990a'
+          - hint: 'Original link: /insights/, key: -373b779b'
             label: Link
-            name: 590e990a
+            name: '-373b779b'
             widget: string
-          - hint: 'Original link: /contact-us, key: 5e5270da'
+          - hint: 'Original link: /contact-us/, key: 6bfbaa95'
             label: Link
-            name: 5e5270da
+            name: 6bfbaa95
             widget: string
           - hint: 'Original link: /, key: 2f'
             label: Link
